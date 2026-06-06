@@ -1,0 +1,2 @@
+model,accuracy,negative_precision,negative_recall,negative_f1,positive_precision,positive_recall,positive_f1,macro_f1,weighted_f1
+GRU,0.82304,0.7956076134699853,0.86944,0.8308868501529052,0.8560846560846561,0.77664,0.8144295302013422,0.8226581901771237,0.8226581901771237

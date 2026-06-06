@@ -1,0 +1,2 @@
+source ~/.venvs/mnist_tf_gpu/bin/activate 
+-> wsl

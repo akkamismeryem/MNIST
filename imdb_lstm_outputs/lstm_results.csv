@@ -1,0 +1,2 @@
+model,accuracy,negative_precision,negative_recall,negative_f1,positive_precision,positive_recall,positive_f1,macro_f1,weighted_f1
+LSTM,0.84024,0.8490070572788446,0.82768,0.8382078911123714,0.8319026065241143,0.8528,0.8422216955044639,0.8402147933084176,0.8402147933084178
